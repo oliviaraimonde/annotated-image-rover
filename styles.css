@@ -129,6 +129,24 @@ img {
     transform: translate(-85%, -72%);
 }
 
+.dot.people {
+    top: 75%;
+    left: 16%;
+    transform: translate(-16%, -75%);
+}
+
+.dot.solidarity {
+    top: 69%;
+    left: 76%;
+    transform: translate(-76%, -69%);
+}
+
+.dot.woman {
+    top: 89%;
+    left: 54%;
+    transform: translate(-54%, -89%);
+}
+
 /*********************************
  * For when .dot has been clicked
 **********************************/
